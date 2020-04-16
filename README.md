@@ -78,7 +78,9 @@ No existirá publicidad como tal.
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 * Twitch tiene sus propios medidores y se puede estudiar bastante bien al público que te sigue. Además puedes ir haciendo estimaciones de ingresos y así tener siempre un plan de actuación con respecto a tu proyecto.
-* 
+* Wordpress también tiene sus medidores
+  Twitter también mide las interacciones
+  Youtube también permite dicho seguimiento
 
 
 
