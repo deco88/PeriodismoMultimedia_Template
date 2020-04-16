@@ -64,7 +64,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 La imagen visual se adaptaría al ya exisente blog de Edeportes, un proyecto que ya tiene tiempo y del que ya tengo Logotipos, imagenes, etc. En cuanto a Twitch se crearía un canal con el nombre del programa y el logotipo del mismo.
 
-* redes sociales Twitter como red promocional del programa (https://twitter.com/edeportes_)
+* redes sociales Twitter como red promocional del programa: https://twitter.com/edeportes_
                  Youtube para resubir los directos. (https://www.youtube.com/channel/UCh9d5SMnDAGED5HjdnJIV5A)
                  Twitch también puede ser considerada una red social y es la fuente principal de contenido del programa         (https://www.twitch.tv/edeportestv/)
 
